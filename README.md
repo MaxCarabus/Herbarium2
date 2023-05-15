@@ -1,4 +1,4 @@
-# Herbarium2
+## Оцирфовка гербариев
 Herbarium data digitization and publishing course in Aktau, 24-28 April 2023
 
 Учебно-практический курс по оцифровке гербариев проходил 24-28 апреля 2023 года на базе<br>
